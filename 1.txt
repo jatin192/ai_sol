@@ -1,0 +1,10 @@
+3mUabL7AFxU9WnnpgghpervbABRGryNYmG3Fuoww1KASJiTGiDfvvuMx6nEb1N87ERiX9NXztAfURgvuhd2VJZdG
+
+
+i wrote in input field the click on send the it will show on chat bot the nwaiting for rresponse after clicking on send button the  input show on frontend is not  showing out the box if it is long as you can see when i write long input thetext is showing out side of box fix that
+without chainging other functionality check image first 
+
+aiJCBzauCWX5qb4zvR9Nb45NVMjdfvztch275QfFjwkY
+
+
+Inbuild Wallet Pv = 2HjKLft6WHBRxA34EYixMLT2MyQUtidxaU7qfZ9mrHLjVhaW6wscs66RbnjHnX1ovrXLerVdXNE8Sg174Ab5kXze

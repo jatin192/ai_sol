@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/node@23"
+    }
+  ],
+  "framework": "nextjs"
+}
