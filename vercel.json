@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "builds": [
-    {
-      "src": "package.json",
-      "use": "@vercel/node@23"
-    }
-  ],
-  "framework": "nextjs"
+  "buildCommand": "npm run build",
+  "installCommand": "npm i --legacy-peer-deps",
+  "framework": "nextjs",
+  "env": {
+    "NODE_VERSION": "23.x"
+  }
 }
