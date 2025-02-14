@@ -41,26 +41,29 @@ AI Sol Agent is an advanced Web3 chatbot template that enables natural language 
     ```bash
     cd ai-sol-agent
     ```
-
-3. Install dependencies:
+3. Use the appropriate Node version::
     ```bash
-    npm install
+    nvm use 23
     ```
 
-4. Set up environment variables:
+4. Install dependencies:
+    ```bash
+    npm npm i --legacy-peer-deps
+    ```
+
+5. Set up environment variables:
     Create a `.env` file in the root directory and add:
     ```env
     OPENAI_API_KEY=your_openai_api_key
     RPC_URL=your_solana_rpc_url
-    SOLANA_PRIVATE_KEY=your_private_key_array
     ```
 
-5. Start the development server:
+6. Start the development server:
     ```bash
     npm run dev
     ```
 
-6. Open your browser and navigate to `http://localhost:3000`
+7. Open your browser and navigate to `http://localhost:3000`
 
 ## Features in Detail
 
